@@ -9,15 +9,21 @@ Lenguajes de programacion 👩‍💻
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white)
-3. C++
-4. PHP
-5. JAVA
-6. CSS
+ <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Acss"><img alt="CSS" src="https://img.shields.io/badge/CSS%20-%231572B6.svg?logo=css3&logoColor=white"></a>
+![PHP](https://img.shields.io/badge/-PHP-007ACC?style=flat-square&logo=PHP&logoColor=white)
+![C++](https://img.shields.io/badge/-C++-007ACC?style=flat-square&logo=C++&logoColor=white)
+![JAVA](https://img.shields.io/badge/-JAVA-E34F26?style=flat-square&logo=java&logoColor=white)
+
+
 
 Base de datos 🎒
 
 ![MySQL](https://img.shields.io/badge/-MySQL-00000F?style=flat&logo=mysql&logoColor=white)
-2. Mongo DB
+<img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-4EA94B?logo=mongodb&logoColor=white">
+
+Frameworks
+
+ <a href="#"><img alt="Express.js" src="https://img.shields.io/badge/Express.js%20-%23404d59.svg?logo=express&logoColor=white"></a>
 
 Tecnologias 🛠
 
@@ -28,7 +34,8 @@ Tecnologias 🛠
 
 
 Sistemas Operativos 💻
-1. Windows
+
+![Windows](https://img.shields.io/badge/-Windows-007ACC?style=flat-square&logo=Windows&logoColor=white)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=Linux&logoColor=white)
 
 
