@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+Soy Ingeniera de Sistemas graduada en Venezuela y actualemnte en España tengo mi tuitulo homologado a Tecnologías de La Información y la Comunicación
 <!--
 **CarolinaOM/CarolinaOM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
