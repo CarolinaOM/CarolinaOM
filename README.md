@@ -1,6 +1,6 @@
 ### Hola 👋
 
-Soy Ingeniera de Sistemas y actualmente me dedico al mundo de la programacion 
+Soy Ingeniera de Sistemas y actualmente me dedico al mundo de la programación 
 
 Si de programacion se trata me desenvuelvo en:
 
