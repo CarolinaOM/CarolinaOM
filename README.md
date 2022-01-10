@@ -4,7 +4,7 @@ Soy Ingeniera de Sistemas y actualmente me dedico al mundo de la programación
 
 Si de programacion se trata me desenvuelvo en:
 
-Lenguajes de programacion 👩‍💻 
+1. Lenguajes de programacion 👩‍💻 
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
@@ -15,17 +15,16 @@ Lenguajes de programacion 👩‍💻
 ![JAVA](https://img.shields.io/badge/-JAVA-E34F26?style=flat-square&logo=java&logoColor=white)
 
 
-
-Base de datos 🎒
+2. Base de datos 🎒
 
 ![MySQL](https://img.shields.io/badge/-MySQL-00000F?style=flat&logo=mysql&logoColor=white)
 <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-4EA94B?logo=mongodb&logoColor=white">
 
-Frameworks
+3. Frameworks
 
  <a href="#"><img alt="Express.js" src="https://img.shields.io/badge/Express.js%20-%23404d59.svg?logo=express&logoColor=white"></a>
 
-Tecnologias 🛠
+4. Tecnologias 🛠
 
 ![POSTMAN](https://img.shields.io/badge/-Postman-F05032?style=flat-square&logo=postman&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/-VSC-007ACC?style=flat-square&logo=Visual+Studio+Code&logoColor=white)
@@ -33,7 +32,7 @@ Tecnologias 🛠
 ![npm](https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white)
 
 
-Sistemas Operativos 💻
+5. Sistemas Operativos 💻
 
 ![Windows](https://img.shields.io/badge/-Windows-007ACC?style=flat-square&logo=Windows&logoColor=white)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=Linux&logoColor=white)
