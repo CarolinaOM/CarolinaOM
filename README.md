@@ -1,10 +1,11 @@
-### Hola 👋
+## Hola soy Carolina 👋
 
 Soy Ingeniera de Sistemas y actualmente me dedico al mundo de la programación 
+<br>
 
-Si de programacion se trata me desenvuelvo en:
+Si de programación se trata me desenvuelvo en:
 
-1. Lenguajes de programacion 👩‍💻 
+1. Lenguajes de programación 👩‍💻 
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
@@ -37,6 +38,9 @@ Si de programacion se trata me desenvuelvo en:
 ![Windows](https://img.shields.io/badge/-Windows-007ACC?style=flat-square&logo=Windows&logoColor=white)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=Linux&logoColor=white)
 
+
+<br>
+<br>
 
 Si quieres saber mas de mi este es mi contacto 
 
