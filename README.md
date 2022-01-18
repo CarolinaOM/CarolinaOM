@@ -15,8 +15,7 @@ Si de programación se trata me desenvuelvo en:
 ![PHP](https://img.shields.io/badge/-PHP-007ACC?style=flat-square&logo=PHP&logoColor=white)
 ![C++](https://img.shields.io/badge/-C++-007ACC?style=flat-square&logo=C++&logoColor=white)
 ![JAVA](https://img.shields.io/badge/-JAVA-E34F26?style=flat-square&logo=java&logoColor=white)
-![Kotlin](https://img.shields.io/badge/-Kotlin-007ACC?style=flat-square&logo=kotlin&logoColor=purple)
-
+![Kotlin](https://img.shields.io/badge/-Kotlin-00000F?style=flat&logo=kotlin&logoColor=purple)
 
 2. Base de datos 🎒
 
