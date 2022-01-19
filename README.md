@@ -11,7 +11,8 @@ Si de programación se trata me desenvuelvo en:
 ![VanillaJS](https://img.shields.io/badge/-Vanilla-ff6462?style=flat-square&logo=JavaScript&logoColor=white)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white)
- <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Acss"><img alt="CSS" src="https://img.shields.io/badge/CSS%20-%231572B6.svg?logo=css3&logoColor=white"></a>
+ <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Acss">
+ <img alt="CSS" src="https://img.shields.io/badge/CSS%20-%231572B6.svg?logo=css3&logoColor=white"></a>
 ![PHP](https://img.shields.io/badge/-PHP-007ACC?style=flat-square&logo=PHP&logoColor=white)
 ![C++](https://img.shields.io/badge/-C++-007ACC?style=flat-square&logo=C++&logoColor=white)
 ![JAVA](https://img.shields.io/badge/-JAVA-E34F26?style=flat-square&logo=java&logoColor=white)
@@ -32,7 +33,8 @@ Si de programación se trata me desenvuelvo en:
 ![Visual Studio Code](https://img.shields.io/badge/-VSC-007ACC?style=flat-square&logo=Visual+Studio+Code&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![npm](https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white)
-
+<img alt="android studio" src="https://img.shields.io/badge/Android Studio-4EA94B?logo=android studio&logoColor=white">
+ 
 
 5. Sistemas Operativos 💻
 
