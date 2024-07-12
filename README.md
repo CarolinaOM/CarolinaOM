@@ -27,6 +27,8 @@ Si de programación se trata me desenvuelvo en:
 3. Frameworks
 
  <a href="#"><img alt="Express.js" src="https://img.shields.io/badge/Express.js%20-%23404d59.svg?logo=express&logoColor=white"></a>
+ <a href="#"><img alt="vue.js" src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D"></a>
+ 
 
 4. Tecnologias 🛠
 
