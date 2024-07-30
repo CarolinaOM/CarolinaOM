@@ -18,6 +18,7 @@ Si de programación se trata me desenvuelvo en:
 ![JAVA](https://img.shields.io/badge/-JAVA-E34F26?style=flat-square&logo=java&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/-Kotlin-00000F?style=flat&logo=kotlin&logoColor=purple)
 ![GO](https://img.shields.io/badge/-GO-007ACC?style=flat-square&logo=Go&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=TypeScript&logoColor=white)
 
 2. Base de datos 🎒
 
