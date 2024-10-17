@@ -56,6 +56,7 @@ Si quieres saber mas de mi este es mi contacto
 
 
 
+![Programadora 1](https://github.com/user-attachments/assets/85fa1b9f-b0d0-43a1-9587-049a2f05d9f0)
 
 
 <!--
