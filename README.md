@@ -3,6 +3,8 @@
 Soy Ingeniera de Sistemas y actualmente me dedico al mundo de la programación 
 <br>
 
+![Programadora 1](https://github.com/user-attachments/assets/85fa1b9f-b0d0-43a1-9587-049a2f05d9f0)
+
 Si de programación se trata me desenvuelvo en:
 
 1. Lenguajes de programación 👩‍💻 
@@ -55,8 +57,6 @@ Si quieres saber mas de mi este es mi contacto
 
 
 
-
-![Programadora 1](https://github.com/user-attachments/assets/85fa1b9f-b0d0-43a1-9587-049a2f05d9f0)
 
 
 <!--
