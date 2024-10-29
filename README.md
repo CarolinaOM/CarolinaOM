@@ -31,7 +31,7 @@ Si de programación se trata me desenvuelvo en:
 
  <a href="#"><img alt="Express.js" src="https://img.shields.io/badge/Express.js%20-%23404d59.svg?logo=express&logoColor=white"></a>
  <a href="#"><img alt="vue.js" src="https://img.shields.io/badge/-Vue.js-4fc08d?style=flat&logo=vuedotjs&logoColor=white"></a>
- <a href="#"><img alt="vue.js" src="https://img.shields.io/badge/-react-4fc08d?style=flat&logo=vuedotjs&logoColor=white&style=for-the-badge"></a>
+ [![React](https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB)](#)
 
 4. Tecnologias 🛠
 
