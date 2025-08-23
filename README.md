@@ -39,7 +39,8 @@ Si de programación se trata me desenvuelvo en:
 ![Visual Studio Code](https://img.shields.io/badge/-VSC-007ACC?style=flat-square&logo=Visual+Studio+Code&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![npm](https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white)
-<img alt="android studio" src="https://img.shields.io/badge/Android Studio-4EA94B?logo=android studio&logoColor=white">
+![Android Studio](https://img.shields.io/badge/Android-Studio-4EA94B?logo=androidstudio&logoColor=white&style=flat-square)
+
  
 
 5. Sistemas Operativos 💻
