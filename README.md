@@ -55,7 +55,7 @@ Si de programación se trata me desenvuelvo en:
 Si quieres saber mas de mi este es mi contacto 
 
 [![LinkedIn](https://img.shields.io/static/v1.svg?label=LinkedIn&message=@CarolinaOrdoñez&logo=linkedin&style=flat&color=blue)](https://www.linkedin.com/in/carolina-ordo%C3%B1ez-morales/)
-
+[![Web](https://img.shields.io/static/v1.svg?label=Web&message=Mi+CV+Online&logo=google-chrome&style=flat&color=brightgreen)](https://carolina-ordonez-sites.netlify.app/)
 
 
 
